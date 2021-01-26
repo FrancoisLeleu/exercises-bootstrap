@@ -3,7 +3,7 @@
 Exercice Bootstrap
 ==================
 
-.Me voici parvenu au point II __"imbricated elements"__
+Me voici parvenu au point II : __"imbricated elements"__
 
 Je pense le rendu assez fidèle à l'exemple donné.
 
